@@ -37,7 +37,7 @@ I'm a student currently exploring the world of [Computer Science, Data Science, 
 
 ## 📫 How to Reach Me
 
-- **Email:** [Dhrivgaur.in@gmail.com]
+- **Email:** [Dhruvgaur.in@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/dhruv-gaur-2536a6319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and follow along on my learning journey!
