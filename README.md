@@ -30,7 +30,8 @@ I'm a student currently exploring the world of [Computer Science, Data Science, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdhruvgaur&show_icons=true&theme=radical)
+
 
 ---
 
